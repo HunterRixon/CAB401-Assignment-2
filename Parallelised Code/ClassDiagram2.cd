@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DigitalMusicAnalysis.MainWindow" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="DigitalMusicAnalysis.MainWindow.pitchConv">
+        <TypeIdentifier>
+          <NewMemberFileName>MainWindow.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAmQwgABIiAgAoCUAELAAUAAJgJAAAAAEA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DigitalMusicAnalysis.musicNote">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="DigitalMusicAnalysis.musicNote.notePitch">
+        <TypeIdentifier>
+          <NewMemberFileName>musicNote.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAGAAAAAAQAAEAAAAAAAAAAECAAAAAAAAAAAA=</HashCode>
+      <FileName>musicNote.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalMusicAnalysis.noteGraph">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAEIAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>noteGraph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalMusicAnalysis.timefreq">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAQAAACACAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>timefreq.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigitalMusicAnalysis.wavefile">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAACAACAAAAAAgAAAAAAAAACgBAgAAAIgQAAAECAA=</HashCode>
+      <FileName>wavefile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
